@@ -1,8 +1,8 @@
 body{
-   background-image: url("Background.jpg");
+
   font-family: "Arimo";
   opacity: .5;/*workout*/
-  background-color: #ffffe6;
+  background-color: red;
 }
 #top{
   display:inline;
