@@ -52,6 +52,7 @@ div.hr{
   font-size: 100%;
   bottom: 0px;
 }
+<<<<<<< HEAD
 .social-icons {
   width: 60%;
   margin: auto;
@@ -73,4 +74,28 @@ a {
 
 
 }
+=======
+
+  .social-icons {
+       width: 60%;
+       margin: auto;
+       display: inline-block;
+    }
+     .icon {
+       float: left;
+       position: relative;
+       width: 19%;
+       height: 0;
+       margin: 1% 0.5%;
+
+    a {
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 100%;
+
+
+    }
+>>>>>>> origin/gh-pages
 }
