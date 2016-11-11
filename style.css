@@ -1,9 +1,9 @@
 body{
-<<<<<<< HEAD
-  /*//background-image: url("background.jpg");*/
+  background-image: url("Background.jpg");
+  width:100%;
   font-family: "Arimo";
   opacity: .5;/*workout*/
-  background-color: #ffffe6;
+  /*background-color: #ffffe6;*/
 }
 #top{
   display:inline;
