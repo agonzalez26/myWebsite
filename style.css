@@ -1,20 +1,23 @@
 body{
-
+  /*background-image: url("Bg.jpg");
+  width:100%;
+  height:100%;*/
   font-family: "Arimo";
-  opacity: .5;/*workout*/
-  background-color: red;
+  /*workout*/
+  background-color: white;
 }
 #top{
   display:inline;
+  list-style-type: none;
 }
 #navigation{
+  border-radius: 3px;
   display: inline;
   width: 100%;
   float: right;
   padding: 3px;
   margin-top: 0px;
-=======
-  background-color: lightgreen;
+  background-color: black;
 
 }
 div.hr{
@@ -23,39 +26,42 @@ div.hr{
   background-color: black;
   display: block;
   padding: 10px;
->>>>>>> origin/gh-pages
 }
-/*ul{
-  text-decoration: none;
-  color: black;
-}*/
 #links{
-  background-color:#ccfff5;
+  background-color:black;
   display:inline-block;
   float: right;
-  border: 2px solid #ccfff5;
+  border: 2px solid white;
   font-size:15px;
   margin: 6px;
   padding: 10px 15px;
   font-weight: bolder;
   border-radius: 3px;
   text-transform: uppercase;
+  color:white;
+  text-decoration: none;
 }
 #links:hover{
-  background-color: blue;
+  background-color:white;
+  color:black;
+  text-decoration: none;
 }
 #footer{
-  background-color: blue;
+  background-color: lightpink;
   padding: 20px;
   text-align:center;
-  font-size: 100%;
+  font-size: 20px;
   bottom: 0px;
+  border-radius: 3px;
+  color:white;
+  background-color: black;
 }
-<<<<<<< HEAD
 .social-icons {
   width: 60%;
   margin: auto;
   display: inline-block;
+  list-style-type: none;
+
 }
 .icon {
   float: left;
@@ -72,29 +78,4 @@ a {
    height: 100%;
 
 
-}
-=======
-
-  .social-icons {
-       width: 60%;
-       margin: auto;
-       display: inline-block;
-    }
-     .icon {
-       float: left;
-       position: relative;
-       width: 19%;
-       height: 0;
-       margin: 1% 0.5%;
-
-    a {
-        display: inline-block;
-        position: absolute;
-        left: 0;
-        width: 100%;
-        height: 100%;
-
-
-    }
->>>>>>> origin/gh-pages
 }
