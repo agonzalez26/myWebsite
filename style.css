@@ -28,8 +28,8 @@ hr {border-width:1px; border-style:inset; margin:.5em auto; width:70%; position:
 
 #portfolio {transition: all 2s ease-in-out;}
 #portfolio .column {margin: 10px 0; padding: 10px 0}
-#portfolio .img-container {padding:0; margin:0;}
-#portfolio img{margin: 1%; box-shadow: 0 4px 8px 0 rgba(0,0,0,.2); max-width: 500px; height: auto;background-color: black;}
+#portfolio .img-container {padding:0; margin:0; background-color: black; height:300px;}
+#portfolio img{margin: 1%; box-shadow: 0 4px 8px 0 rgba(0,0,0,.2); max-width: 500px; height: auto;}
 .img-container {position:relative;padding:0; margin:0;}
 .img-container img{opacity: 1; display: block; cursor:not-allowed;
 transition: .5 ease; backface-visibility: hidden; padding:0; margin:0;}
