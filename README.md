@@ -2,6 +2,6 @@
 
 MyWebsite is my offical website. 
 
-I created a responsive website out of scratch without the use of Bootstrap. I used HTML, CSS, and JavaScript.
+The website utilizes Bootstrap with custom use of CSS and JavaScript.
 
 Check out the running website: http://almagonzalez.me 
