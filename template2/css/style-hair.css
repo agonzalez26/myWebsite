@@ -1,0 +1,22 @@
+.black{color:black;}
+p{font-size: 1.25em;}
+#home{background-image: url("../img/hero.jpg");}
+.navbar-light .navbar-nav .nav-link {color:#581845;}
+.fa-phone:hover, .fa-envelope:hover, .fa-map-marker:hover, .contact-word:hover{color:white;}
+/* #contact-email{ background-color:black; color:white; display:inline-block;} */
+.section {padding: 5rem 3rem; position: relative;}.contact-icon{color:#581845;}
+.section h2{color:#581845; font-weight: bolder;}
+.card{margin: 2rem 0;}
+#sections .nav-link:hover{background-color:#581845; color:white; border-bottom: 2px solid #581845;}
+/* #socials .nav-link:hover{color:red;} */
+.footer, .footer a{color:#581845;}
+.footer a:hover{color:#581845;text-decoration: none;}
+.black{color:black;}
+.btn{background-color:#FDD42E;}
+.contact-circle{color:#581845;}
+/* .contact-word-t{color:black;} */
+/* .contact-word-t:hover{color:red;} */
+.section img{max-width: 350px;}
+.carousel-indicators li{background-color:black;}
+.carousel-indicators li:hover{background-color:orange;}
+/* .carousel-indicators li:active{background-color:red;} */

@@ -1,0 +1,19 @@
+.black{color:black;}
+p{font-size: 1.25em;}
+#home{background-image: url("../img/hero.jpg");}
+.background-text{color:white;}
+.navbar-light .navbar-nav .nav-link {color:#5CBA47;}
+.navbar-light .navbar-nav .nav-link:hover {color:white;}
+.brand-name{color:#5CBA47;}
+.fa-phone:hover, .fa-envelope:hover, .fa-map-marker:hover, .contact-word:hover{color:white;}
+.section {padding: 5rem 3rem; position: relative;}.contact-icon{color:#581845;}
+.section h2{font-weight: bolder;}
+.card{margin: 2rem 0;}
+#sections .nav-link:hover{background-color:white; color:#5CBA47; border-bottom: 2px solid white;}
+.footer, .navbar{background-color:#3D3D33;}
+.footer, .footer a{color:#5CBA47;}
+.footer a:hover{color:white;text-decoration: none;}
+.black{color:black;}
+.btn{background-color:#5CBA47;color:white;}
+.contact-circle{color:#5CBA47;;}
+.section img{max-width: 350px;}
